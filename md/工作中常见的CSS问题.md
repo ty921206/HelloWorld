@@ -20,7 +20,9 @@ p {
 ```
 3. 首行缩进
 ```
-<p style="text-indent:2em;">这是一段内容文字，这是一段内容文字</p>```
+<p style="text-indent:2em;">这是一段内容文字，这是一段内容文字</p>
+
+```
 4. 首字下沉
 ```
 p:first-letter{
